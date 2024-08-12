@@ -1,0 +1,12 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #282c34;
+    color: white;
+  }
+  
+  .brand-name {
+    font-size: 100px;
+  }
+  
